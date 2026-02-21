@@ -24,7 +24,7 @@ An intelligent AI-powered job search agent that helps you find job postings usin
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/catharsis02/job_search_agent
 cd Job_Search_Agent
 ```
 
